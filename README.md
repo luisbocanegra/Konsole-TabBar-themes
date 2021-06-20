@@ -19,3 +19,9 @@ konsole-6-bottom-line-color-blue-rounded-top-bg
 
 konsole-7-bottom-line-color-blue-darker-rounded-top-bg
 ![Preview 7](preview/7.png?raw=true "Preview 7")
+
+# How to apply?
+Go to Konsole Settings > Tab Bar / Splitters > Enable the option ```Use user-defined stylesheet``` and select the css file
+#
+Documentation
+https://docs.kde.org/stable5/en/konsole/konsole/tabbarstylsheet.html
