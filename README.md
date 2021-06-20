@@ -1,4 +1,4 @@
-# User-defined Konsole Tab Bar Themes
+# Konsole Tab Bar Themes
 konsole-1-rounded-blue
 ![Preview 1](preview/1.png?raw=true "Preview 1")
 
