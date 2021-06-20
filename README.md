@@ -1,2 +1,1 @@
-# konsole-themes
-User-defined Konsole Tab Bar Themes
+# User-defined Konsole Tab Bar Themes
